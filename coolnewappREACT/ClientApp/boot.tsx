@@ -17,7 +17,7 @@ function renderApp() {
         </AppContainer>,
         document.getElementById('react-app')
     );
-}
+}   
 
 renderApp();
 

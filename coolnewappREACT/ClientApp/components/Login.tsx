@@ -38,7 +38,7 @@ export class Login extends React.Component<RouteComponentProps<{}>, LoginState> 
                     <input type="password" className="form-control" placeholder="Password" />
                 </div>
                 <button onClick={this.login} className="btn btn-primary block full-width m-b">Login</button>
-                <a href="#"><small>Forgot password?</small></a>
+                <a href="#"><small>Forgot password? Lol</small></a>
             </div>
         )
     }
